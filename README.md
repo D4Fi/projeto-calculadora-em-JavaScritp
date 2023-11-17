@@ -1,2 +1,2 @@
 # projeto-calculadora-em-JavaScritp
-![image](t.png)
+![image](t.gif)
